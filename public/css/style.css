@@ -1,0 +1,19 @@
+footer {
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #272c2c;
+    position: fixed;
+    bottom: 0;
+}
+
+#ferro {
+    position: relative;
+    width: 50%;
+    margin: auto;
+    right: 0
+}
+
+h3 {
+    margin-left: 5%;
+}
